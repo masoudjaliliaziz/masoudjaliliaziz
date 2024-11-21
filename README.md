@@ -21,7 +21,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lourny&layout=compact)
 
-![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourny&show_icons=true&theme=dark)
+![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourny&show_icons=true)
 </p>
 
           
