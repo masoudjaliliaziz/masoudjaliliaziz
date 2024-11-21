@@ -19,6 +19,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamhosseini&layout=compact)
 
+![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesamhosseini&show_icons=true&theme=dark)
+
+
           
 
 
