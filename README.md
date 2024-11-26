@@ -19,9 +19,9 @@
 </p>
 <p align="left">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lourny&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudjaliliaziz&layout=compact)
 
-![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lourny&show_icons=true)
+![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true)
 </p>
 
           
