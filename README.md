@@ -1,3 +1,4 @@
+<div style="background-image: url('./4401280.jpg'); background-size: cover; padding: 20px; border-radius: 10px; color: white; text-align: center;">
 ## Hi there im frontEndDeveloer👋
 - 🚀 Let's code together
 - 🔭 I’m currently working on admin panel category project
@@ -53,7 +54,7 @@
   
 ![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true)
 </p>
-
+</div>
 
           
 
