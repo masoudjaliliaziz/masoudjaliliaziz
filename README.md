@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="./4401280.jpg" alt="Banner" width="300" />
+  <img src="./4401280.jpg" alt="Banner" width="250" />
 </p>
 
-## Hi there im frontEndDeveloper 👋
+## Hi there, I'm a Front-End Developer 👋
 
 - 🚀 Let's code together  
-- 🔭 I’m currently working on admin panel category project  
+- 🔭 I’m currently working on an admin panel category project  
 - 🌱 I’m currently learning NEXT & Remix  
 
 ### 💪 Main skills:
 <p align="left">
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px;" /> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin-right:10px;" />
@@ -38,9 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:10px;" />   
 </p>
 
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudjaliliaziz&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
+  <i class="fas fa-chart-line"></i> <!-- GitHub Stats Icon -->
   <img src="https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true" alt="GitHub Stats" />
+</p>
+
+### 🌍 Top Languages:
+<p align="center">
+  <i class="fas fa-code"></i> <!-- Top Languages Icon -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudjaliliaziz&layout=compact" alt="Top Languages" />
 </p>
