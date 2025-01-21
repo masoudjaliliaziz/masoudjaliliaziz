@@ -1,6 +1,7 @@
 ## Hi there im frontEndDeveloer👋
 - 🚀 Let's code together
 - 🔭 I’m currently working on admin panel category project
+- - 🌱 I’m currently learning NEXT & Remix
 - 👌 Touch skills:
 
   
@@ -12,8 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:10px;" />   
   </p>
-
-  - 💪 Main skills:
+- 💪 Main skills:
 <p align="left">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:10px;"/> 
