@@ -1,9 +1,13 @@
 ## Hi there im frontEndDeveloer👋
 - 🚀 Let's code together
 - 🔭 I’m currently working on admin panel category project
--   <p align="left">touch skills:
+-   <p >touch skills:
+
+  </p>
+  <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" style="margin-right:10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" style="margin-right:10px;" />   
+      
   </p>
 <p align="left">
 
