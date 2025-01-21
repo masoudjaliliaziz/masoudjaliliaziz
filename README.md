@@ -1,18 +1,7 @@
 ## Hi there im frontEndDeveloer👋
 - 🚀 Let's code together
 - 🔭 I’m currently working on admin panel category project
--  🌱 I’m currently learning NEXT & Remix
-- 👌 Touch skills:
-
-  
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" style="margin-right:10px;" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="40" height="40" style="margin-right:10px;" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:10px;" />   
-  </p>
+- 🌱 I’m currently learning NEXT & Remix
 - 💪 Main skills:
 <p align="left">
 
@@ -38,12 +27,31 @@
           
                     
 </p>
+
+
+
+
+
+- 👌 Touch skills:
+
+  
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" style="margin-right:10px;" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="40" height="40" style="margin-right:10px;" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:10px;" />   
+  </p>
+
 <p align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudjaliliaziz&layout=compact)
-
+</p>
+<p align="center">
 ![masoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true)
 </p>
+
 
           
 
