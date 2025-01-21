@@ -1,7 +1,7 @@
 ## Hi there im frontEndDeveloer👋
 - 🚀 Let's code together
 - 🔭 I’m currently working on admin panel category project
-- - 🌱 I’m currently learning NEXT & Remix
+-  🌱 I’m currently learning NEXT & Remix
 - 👌 Touch skills:
 
   
@@ -38,7 +38,7 @@
           
                     
 </p>
-<p align="left">
+<p align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudjaliliaziz&layout=compact)
 
