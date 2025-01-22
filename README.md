@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./4401280.jpg" alt="Banner" width="250" />
+  <img src="./laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg" alt="Banner" width="250" />
 </p>
 
 ## Hi there, I'm a Front-End Developer 👋
