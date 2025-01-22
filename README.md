@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg" alt="Banner" width="250" />
+  <img src="./laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg" alt="Banner"  />
 </p>
 
 ## Hi there, I'm a Front-End Developer 👋
