@@ -43,8 +43,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <i class="fas fa-chart-line"></i> <!-- GitHub Stats Icon -->
-  <img src="https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true" alt="GitHub Stats" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=masoudjaliliaziz&theme=default_repocard&hide_border=true)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true" alt="GitHub Stats" /><br/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=masoudjaliliaziz&show_icons=true](https://github-readme-streak-stats.herokuapp.com/?user=masoudjaliliaziz&theme=default_repocard&hide_border=true)" alt="GitHub Stats" />
+
+
 </p>
 
 ### 🌍 Top Languages:
